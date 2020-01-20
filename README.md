@@ -5,7 +5,7 @@ In this assignment, you'll be implementing a basic linear regression model. This
 
 Working files:
 -------------
-You will be restricted to work with 'models.py' and 'Assignment1-Linear Regression.ipynb'. On running and working through the 'Assignment1-Linear Regression.ipynb', a file named 'hyper_param.json' would be generated.
+You will be restricted to work with 'model.py' and 'Assignment1-Linear Regression.ipynb'. On running and working through the 'Assignment1-Linear Regression.ipynb', a file named 'hyper_param.json' would be generated.
 
 Data:
 ----
