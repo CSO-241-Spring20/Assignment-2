@@ -25,7 +25,7 @@ Steps:
 1. Work through the 'Assignment1-Linear Regression.ipynb' and follow the instructions therein.
 2. You need to submit the files: 'models.py', 'Assignment1-Linear Regression.ipynb' and 'hyper_param.json'.
 
-NOTE: We will be testing your results with the help of 'models.py' and the hyperparameters in 'hyper_param.json'.
+NOTE: We will be testing your results with the help of 'model.py' and the hyperparameters in 'hyper_param.json'.
 
 Hint File:
 ---------
